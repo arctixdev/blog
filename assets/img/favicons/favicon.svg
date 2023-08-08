@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="592" height="592"><svg xmlns="http://www.w3.org/2000/svg" width="592" height="592" fill="none" viewBox="0 0 592 592">
+  <path fill="#E63333" d="M40 296C40 154.615 154.615 40 296 40s256 114.615 256 256-114.615 256-256 256S40 437.385 40 296Z"></path>
+  <circle cx="296" cy="296" r="256" fill="#E63333"></circle>
+  <circle cx="296" cy="296" r="216" fill="#000"></circle>
+  <circle cx="296" cy="296" r="134" fill="#E63333"></circle>
+  <circle cx="296" cy="296" r="91" fill="#fff"></circle>
+  <circle cx="296" cy="296" r="58" fill="#000"></circle>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+</style></svg>
