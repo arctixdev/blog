@@ -79,8 +79,9 @@ avatar: https://avatars.githubusercontent.com/u/74015378
 toc: true
 
 comments:
-  active: gisqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-  # Giscus options › https://giscus.app
+  active: giscus
+  provider: giscus
+
   giscus:
     repo: Un10ck3d/blog
     repo_id: R_kgDOKEqu8g
